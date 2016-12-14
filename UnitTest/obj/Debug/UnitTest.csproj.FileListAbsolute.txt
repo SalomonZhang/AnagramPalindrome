@@ -1,0 +1,8 @@
+c:\users\salomon\documents\visual studio 2015\Projects\PalindromeTest\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+c:\users\salomon\documents\visual studio 2015\Projects\PalindromeTest\UnitTest\bin\Debug\UnitTest.dll
+c:\users\salomon\documents\visual studio 2015\Projects\PalindromeTest\UnitTest\bin\Debug\UnitTest.pdb
+c:\users\salomon\documents\visual studio 2015\Projects\PalindromeTest\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\salomon\documents\visual studio 2015\Projects\PalindromeTest\UnitTest\bin\Debug\PalindromeTest.exe
+c:\users\salomon\documents\visual studio 2015\Projects\PalindromeTest\UnitTest\bin\Debug\PalindromeTest.pdb
+c:\users\salomon\documents\visual studio 2015\Projects\PalindromeTest\UnitTest\obj\Debug\UnitTest.dll
+c:\users\salomon\documents\visual studio 2015\Projects\PalindromeTest\UnitTest\obj\Debug\UnitTest.pdb
